@@ -3,7 +3,7 @@ import { Instagram, ExternalLink } from "lucide-react";
 
 const Hero = () => {
   return (
-    <section className="min-h-screen flex items-center justify-center px-6 py-20 relative overflow-hidden">
+    <section id="inicio" className="min-h-screen flex items-center justify-center px-6 py-20 relative overflow-hidden pt-32">
       <div className="absolute inset-0 opacity-30">
         <div className="absolute top-20 left-10 w-64 h-64 bg-accent rounded-full blur-3xl animate-pulse" />
         <div className="absolute bottom-20 right-10 w-96 h-96 bg-primary/30 rounded-full blur-3xl animate-pulse" style={{ animationDelay: "1s" }} />

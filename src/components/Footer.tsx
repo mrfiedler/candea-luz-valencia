@@ -2,7 +2,7 @@ import { Instagram, ExternalLink } from "lucide-react";
 
 const Footer = () => {
   return (
-    <footer className="py-16 px-6 bg-card border-t border-border/50">
+    <footer id="contacto" className="py-16 px-6 bg-card border-t border-border/50">
       <div className="container max-w-6xl mx-auto">
         <div className="text-center mb-8">
           <h3 className="text-3xl font-light mb-4 font-serif">Candea</h3>

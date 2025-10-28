@@ -4,7 +4,7 @@ import candlesMarket from "@/assets/candles-market.jpg";
 
 const Ritual = () => {
   return (
-    <section className="py-24 px-6 bg-card relative overflow-hidden">
+    <section id="monta-tu-vela" className="py-24 px-6 bg-card relative overflow-hidden">
       <div className="absolute inset-0 opacity-20">
         <div className="absolute top-0 right-0 w-96 h-96 bg-accent rounded-full blur-3xl" />
       </div>
