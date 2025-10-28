@@ -8,6 +8,11 @@ const Testimonials = () => {
   return (
     <section className="py-20 px-6 bg-background">
       <div className="container max-w-5xl mx-auto">
+        <div className="text-center mb-12">
+          <h2 className="text-3xl md:text-4xl font-light text-foreground">
+            Lo que dicen nuestros clientes
+          </h2>
+        </div>
         <div className="grid md:grid-cols-3 gap-8">
           {testimonials.map((testimonial, index) => (
             <div 

@@ -9,22 +9,22 @@ const products = [
   {
     image: candlesDisplay,
     alt: "Velas artesanales decorativas con formas modulares coloridas",
-    caption: "Cada aroma cuenta una historia.",
+    caption: "Velas prelistas para encantar.",
   },
   {
     image: candleStack,
     alt: "Vela artesanal apilable hecha a mano con diseño geométrico",
-    caption: "El arte de la calma, en una vela.",
+    caption: "Monta tu vela al instante.",
   },
   {
     image: candleStrawberry,
     alt: "Vela decorativa sostenible con forma de fresa",
-    caption: "Diseño único y sostenible.",
+    caption: "Velas con aromas y formatos encantadores.",
   },
   {
     image: candlesLit,
     alt: "Velas naturales encendidas con formas florales",
-    caption: "Momentos que merecen luz.",
+    caption: "Velas hechas para combinar con tu ambiente.",
   },
 ];
 

@@ -24,7 +24,7 @@ const Ritual = () => {
           
           <div className="order-1 md:order-2">
             <h2 className="text-4xl md:text-5xl font-light mb-8 leading-tight">
-              Crea tu ritual
+              Monta tu vela
             </h2>
             
             <p className="text-xl text-foreground/80 mb-6 leading-relaxed">
