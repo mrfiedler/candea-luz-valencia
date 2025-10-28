@@ -51,7 +51,7 @@ const Navbar = () => {
             <img
               src={logo}
               alt="Candea - Velas artesanales"
-              className="h-8 md:h-10 w-auto"
+              className="h-5 md:h-6 w-auto"
             />
           </a>
 

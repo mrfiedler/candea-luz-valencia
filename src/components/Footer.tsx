@@ -1,11 +1,16 @@
 import { Instagram, ExternalLink } from "lucide-react";
+import logo from "@/assets/logo.svg";
 
 const Footer = () => {
   return (
     <footer id="contacto" className="py-16 px-6 bg-card border-t border-border/50">
       <div className="container max-w-6xl mx-auto">
         <div className="text-center mb-8">
-          <h3 className="text-3xl font-light mb-4 font-serif">Candea</h3>
+          <img 
+            src={logo} 
+            alt="Candea - Velas artesanales" 
+            className="h-8 w-auto mx-auto mb-4"
+          />
           <p className="text-lg text-muted-foreground font-light italic">
             Hechas a mano con calma, desde el corazón.
           </p>
